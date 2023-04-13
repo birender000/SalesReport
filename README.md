@@ -1,5 +1,8 @@
 # SalesReport
 
+https://app.powerbi.com/view?r=eyJrIjoiYWU5ZDU5OWEtYWQ3Yy00NzZjLTgxZGItZTdiZDFlZjYyODVjIiwidCI6IjZmYTEyMmU1LThjY2EtNDM3YS04MzE2LWY1ODFhYThhODViNyJ9
+
+
 Objective:  To collect the dataset and get the sales insights from the dataset.
 
 Data Collection:
@@ -26,8 +29,9 @@ Data Reporting
 1. Created and add charts, map to visualise data into report.
 2. Add tables and cards to see measures as per business requirement.
 3. Add slicers to filter visuals.
-4. Published interactive report to power BI service.
-5. created a dashboard.
+4. Add reset button.
+5. Published interactive report to power BI service.
+6. created a dashboard.
 
 
 Other learnings:
